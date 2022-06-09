@@ -1,0 +1,3 @@
+TestUserDiscord03@i.ua;TestUser03;Mykola
+TestUserDiscord1@i.ua;Abba_music;Andriy
+TestUserDiscord04@i.ua;TestUser04;Gavrylo
